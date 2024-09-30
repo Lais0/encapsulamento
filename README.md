@@ -1,3 +1,4 @@
+```java
 package encapsulando;
 import java.util.Scanner;
 public class Prt2_carro {
@@ -50,3 +51,4 @@ public class Carro {
 		return ano;
 	}
 }
+```
